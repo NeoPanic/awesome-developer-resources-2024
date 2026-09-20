@@ -8,8 +8,21 @@
 
 ---
 
+## 👑 Author & Top Contributor
+
+<a href="https://github.com/pheonix14">
+  <img src="https://contrib.rocks/image?repo=pheonix14/awesome-developer-resources-2024" alt="Contributors" />
+</a>
+
+| Avatar | Contributor | Role | Profile |
+| :---: | :---: | :---: | :---: |
+| <a href="https://github.com/pheonix14"><img src="https://github.com/pheonix14.png" width="60" style="border-radius:50%;" /></a> | **pheonix14** | 🥇 Lead Author & Top Contributor | [@pheonix14](https://github.com/pheonix14) |
+
+---
+
 ## 📌 Table of Contents
 
+- [👑 Author & Top Contributor](#-author--top-contributor)
 - [🤖 AI & LLM Frameworks](#-ai--llm-frameworks)
 - [🎨 UI Design Systems & Icon Libraries](#-ui-design-systems--icon-libraries)
 - [⚡ Frontend & Web Frameworks](#-frontend--web-frameworks)
